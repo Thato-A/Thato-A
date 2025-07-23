@@ -1,5 +1,7 @@
 ## Hi! I'm Thato 👋
 
+Welcome to my Github page
+
 <!--
 **Thato-A/Thato-A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
