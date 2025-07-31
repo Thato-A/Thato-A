@@ -34,6 +34,7 @@ Fresh out of an immersive software engineering program (lots of coffee, commits,
 Let’s build something awesome!
 
 📫 Connect with me
-thatoanderson92@gmail.com
-www.linkedin.com/in/thato-anderson
+Email: thatoanderson92@gmail.com
+
+Linkedin: www.linkedin.com/in/thato-anderson
 
