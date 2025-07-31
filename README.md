@@ -28,7 +28,12 @@ Fresh out of an immersive software engineering program (lots of coffee, commits,
 
 🎨 Turning ideas into real, responsive web apps
 
-Right now, I'm focused on sharpening my full-stack skills and building things that are both useful and delightful.
+🧠 Open to: collaboration, feedback, and exciting opportunities
+
+
 Let’s build something awesome!
 
-🧠 Open to: collaboration, feedback, and exciting opportunities
+📫 Connect with me
+thatoanderson92@gmail.com
+www.linkedin.com/in/thato-anderson
+
