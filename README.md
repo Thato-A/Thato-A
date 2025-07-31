@@ -20,9 +20,9 @@ I'm an enthusiastic software engineer with a thing for clean code, smooth user e
 
 Fresh out of an immersive software engineering program (lots of coffee, commits, and aha moments), I’ve been hands-on with:
 
-🛠️ React, JavaScript, Node.js, HTML, CSS and APIs
+🛠️ React, JavaScript, Node.js, Express, HTML, CSS and APIs
 
-🌱 Backend adventures with MongoDB
+🌱 Backend adventures with MongoDB and Postman
 
 ✅ Writing tests that actually catch bugs — thanks, Jest
 
