@@ -36,6 +36,8 @@ Let’s build something awesome!
 
 📫 Connect with me
 
+Website : https://thatoanderson.netlify.app/
+
 Email: thatoanderson92@gmail.com
 
 Linkedin: www.linkedin.com/in/thato-anderson
